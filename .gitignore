@@ -11,3 +11,8 @@
 download_tool.py
 docker_tests_get_installers.py
 __pycache__/
+/.gradle/
+/gradle/wrapper/gradle-wrapper.jar
+/gradle/wrapper/gradle-wrapper.properties
+/gradlew
+/gradlew.bat

@@ -411,9 +411,9 @@ COMMUNITY=(
      [dbms.tx_log.rotation.retention_policy]="100M size"
      [dbms.memory.pagecache.size]="512M"
      [dbms.default_listen_address]="0.0.0.0"
-     [dbms.connector.https.advertised_address]="0.0.0.0:7473"
-     [dbms.connector.http.advertised_address]="0.0.0.0:7474"
-     [dbms.connector.bolt.advertised_address]="0.0.0.0:7687"
+     [dbms.connector.https.advertised_address]="0.0.0.0:7773"
+     [dbms.connector.http.advertised_address]="0.0.0.0:7774"
+     [dbms.connector.bolt.advertised_address]="0.0.0.0:7787"
 )
 
 ENTERPRISE=(

@@ -45,7 +45,7 @@ VOLUME /data /logs
 
 COPY docker-entrypoint.sh /docker-entrypoint.sh
 
-EXPOSE 7474 7473 7687
+EXPOSE 7774 7773 7787
 
 ENTRYPOINT ["/sbin/tini", "-g", "--", "/docker-entrypoint.sh"]
 CMD ["neo4j"]
